@@ -10,5 +10,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   tutorial
+   vscode
+   pycharm
