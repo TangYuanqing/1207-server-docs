@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '1207服务器使用手册'
+copyright = '2023, 1207'
+author = 'TYQ'
 
 release = '0.1'
 version = '0.1.0'
