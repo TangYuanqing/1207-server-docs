@@ -12,5 +12,5 @@ python:
 sphinx:
   configuration: docs/source/conf.py
 
-format:
+formats:
   pdf

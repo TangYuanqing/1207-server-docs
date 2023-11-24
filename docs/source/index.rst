@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+1207服务器使用手册
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
