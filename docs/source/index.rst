@@ -10,6 +10,6 @@ Contents
 
 .. toctree::
 
+   info
    tutorial
-   vscode
-   pycharm
+   remote_dev
