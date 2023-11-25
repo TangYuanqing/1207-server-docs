@@ -8,6 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: 🚀 快速使用
 
    info
