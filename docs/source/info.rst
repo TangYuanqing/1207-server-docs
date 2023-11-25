@@ -19,23 +19,13 @@ node-4090
 硬件配置
 ^^^^^^^^^^^^^^^^^^^^^
 .. code-block:: shell
-        _,met$$$$$gg.          root@1207-gpu-4090-1 
-        ,g$$$$$$$$$$$$$$$P.       -------------------- 
-    ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
-    ,$$P'              `$$$.     Host: KVM/QEMU (Standard PC (i440FX + PIIX, 1996) pc-i440fx-8.0) 
-    ',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-13-amd64 
-    `d$$'     ,$P"'   .    $$$    Uptime: 4 mins 
-    $$P      d$'     ,    $$P    Packages: 1727 (dpkg) 
-    $$:      $$.   -    ,d$$'    Shell: bash 5.2.15 
-    $$;      Y$b._   _,d$P'      Resolution: 1280x800 
-    Y$$.    `.`"Y$$$$P"'         CPU: 13th Gen Intel i9-13900K (32) @ 2.995GHz 
-    `$$b      "-.__              GPU: NVIDIA GeForce RTX 4090 
-    `Y$$                        GPU: NVIDIA GeForce RTX 4090 
-    `Y$$.                      Memory: 962MiB / 48168MiB 
-        `$$b.
-        `Y$$b.                                         
-            `"Y$b._                                     
-                `"""
+OS: Debian GNU/Linux 12 (bookworm) x86_64
+Kernel: 6.1.0-13-amd64
+Shell: bash 5.2.15
+CPU: 13th Gen Intel i9-13900K (32) @ 2.995GHz 
+GPU 0: NVIDIA GeForce RTX 4090 
+GPU 1: NVIDIA GeForce RTX 4090 
+Memory: 48168MiB (48 GiB)
 
 node-3090
 -------------
@@ -54,20 +44,10 @@ node-3090
 硬件配置
 ^^^^^^^^^^^^^^^^^^^^^
 .. code-block:: shell
-        _,met$$$$$gg.          root@1207-gpu-3090-1 
-        ,g$$$$$$$$$$$$$$$P.       -------------------- 
-    ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
-    ,$$P'              `$$$.     Host: KVM/QEMU (Standard PC (i440FX + PIIX, 1996) pc-i440fx-8.0) 
-    ',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-13-amd64 
-    `d$$'     ,$P"'   .    $$$    Uptime: 34 secs 
-    $$P      d$'     ,    $$P    Packages: 1727 (dpkg) 
-    $$:      $$.   -    ,d$$'    Shell: bash 5.2.15 
-    $$;      Y$b._   _,d$P'      Resolution: 1280x800 
-    Y$$.    `.`"Y$$$$P"'         CPU: 12th Gen Intel i9-12900K (24) @ 3.187GHz 
-    `$$b      "-.__              GPU: NVIDIA GeForce RTX 3090 
-    `Y$$                        GPU: NVIDIA GeForce RTX 3090 
-    `Y$$.                      Memory: 1005MiB / 48170MiB 
-        `$$b.
-        `Y$$b.                                         
-            `"Y$b._                                     
-                `"""
+OS: Debian GNU/Linux 12 (bookworm) x86_64
+Kernel: 6.1.0-13-amd64
+Shell: bash 5.2.15
+CPU: 12th Gen Intel i9-12900K (24) @ 3.187GHz 
+GPU 0: NVIDIA GeForce RTX 3090 
+GPU 1: NVIDIA GeForce RTX 3090 
+Memory: 48170MiB (48 GiB)
