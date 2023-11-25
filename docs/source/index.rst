@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 🚀 快速使用
+   :caption: 🚀 快速上手
 
    info
    tutorial
@@ -17,7 +17,9 @@
    :maxdepth: 1
    :caption: 🧑‍💻 远程开发
 
-   remote_dev
+   pycharm
+   vscode
+   jupyter
 
 .. toctree::
    :maxdepth: 1
