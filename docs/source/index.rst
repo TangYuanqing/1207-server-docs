@@ -3,12 +3,12 @@
 
 .. note::
 
-   This project is under active development.
+   文档仍在编写中。
 
-目录
---------
 
 .. toctree::
+
+   :caption: 快速使用
 
    info
    tutorial
