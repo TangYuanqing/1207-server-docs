@@ -7,8 +7,7 @@
 
 
 .. toctree::
-
-   :caption: 快速使用
+   :caption: 🚀快速使用
 
    info
    tutorial
