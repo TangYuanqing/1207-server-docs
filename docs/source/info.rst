@@ -1,7 +1,9 @@
 基本信息
 =============
 .. warning::
+
     公网IP地址不保证随时可用，同时公网IP的带宽较小。除非必要，请优先通过内网连接。
+
 node-4090
 -------------
 内网IP地址
@@ -19,6 +21,7 @@ node-4090
 硬件配置
 ^^^^^^^^^^^^^^^^^^^^^
 .. code-block:: shell
+
     OS: Debian GNU/Linux 12 (bookworm) x86_64
     Kernel: 6.1.0-13-amd64
     Shell: bash 5.2.15
@@ -44,6 +47,7 @@ node-3090
 硬件配置
 ^^^^^^^^^^^^^^^^^^^^^
 .. code-block:: shell
+
     OS: Debian GNU/Linux 12 (bookworm) x86_64
     Kernel: 6.1.0-13-amd64
     Shell: bash 5.2.15
