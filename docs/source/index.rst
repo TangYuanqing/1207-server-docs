@@ -7,7 +7,8 @@
 
 
 .. toctree::
-   :caption: 🚀快速使用
+   :maxdepth: 2
+   :caption: 🚀 快速使用
 
    info
    tutorial
