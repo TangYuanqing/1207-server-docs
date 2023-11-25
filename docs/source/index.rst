@@ -7,9 +7,21 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 🚀 快速使用
 
    info
    tutorial
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 🧑‍💻 远程开发
+
    remote_dev
+
+.. toctree::
+   :maxdepth: 1
+   :caption: ☕️ 常见问题
+
+   remote_dev
+
