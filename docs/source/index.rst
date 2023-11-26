@@ -29,4 +29,5 @@
    :maxdepth: 1
    :caption: ☕️ 常见问题
 
+   quiz
 
