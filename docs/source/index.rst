@@ -30,4 +30,5 @@
    :caption: ☕️ 常见问题
 
    question/q1
-
+   question/q2
+   question/download_list
