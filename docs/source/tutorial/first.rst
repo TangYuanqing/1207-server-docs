@@ -54,7 +54,7 @@ MobaXterm同时集成了ssh工具和stfp工具，即你可以在使用终端的�
 进行本地磁盘映射需安装以下软件（Windows）：
 
     - :winfsp:  :download:`点击下载 <files/winfsp-2.0.23075.msi>`
-    - :SSHFS-Win:  :download:`点击下载 <files/winfsp-2.0.23075.msi>`
+    - :SSHFS-Win:  :download:`点击下载 <files/sshfs-win-3.5.20357-x64.msi>`
 
 安装过程均直接下一步即可。
 
