@@ -15,7 +15,7 @@
    :maxdepth: 1
    :caption: 🚀 快速上手
 
-   tutorial
+   tutorial/first
 
 .. toctree::
    :maxdepth: 1
