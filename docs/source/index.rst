@@ -5,12 +5,16 @@
 
    文档仍在编写中。
 
+.. toctree::
+   :maxdepth: 1
+   :caption: 💻 设备信息
+
+   info
 
 .. toctree::
    :maxdepth: 1
    :caption: 🚀 快速上手
 
-   info
    tutorial
 
 .. toctree::
