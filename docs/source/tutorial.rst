@@ -48,6 +48,9 @@ MobaXterm同时集成了ssh工具和stfp工具，即您可以在使用终端的�
 
 本地驱动器映射：SSHFS
 ~~~~~~~~~~~~~~~~~~~~
+进行本地驱动器映射需安装以下软件（Windows）：
+- `winfsp <https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi>`_
+- `SSHFS-Win <https://github.com/winfsp/sshfs-win/releases/download/v3.5.20357/sshfs-win-3.5.20357-x64.msi>`_
 
 结束
 -----
@@ -57,4 +60,4 @@ MobaXterm同时集成了ssh工具和stfp工具，即您可以在使用终端的�
 
 .. note::
 
-    若您拿不准主意，请使用PyCharm进行本地和远程开发，不要过多的纠结于 **工具** 的选择。
+    若拿不准主意，请使用PyCharm进行本地和远程开发，不要过多的纠结于工具的选择。

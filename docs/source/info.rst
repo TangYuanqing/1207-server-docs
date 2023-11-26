@@ -45,3 +45,5 @@ IP地址
     GPU 0: NVIDIA GeForce RTX 3090 
     GPU 1: NVIDIA GeForce RTX 3090 
     Memory: 48170MiB (48 GiB)
+
+各服务器共享一块16T 7200转的机械硬盘作为用户目录。
