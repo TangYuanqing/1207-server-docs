@@ -52,7 +52,7 @@ MobaXterm同时集成了ssh工具和stfp工具，即您可以在使用终端的�
 - `winfsp <https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi>`_
 - `SSHFS-Win <https://github.com/winfsp/sshfs-win/releases/download/v3.5.20357/sshfs-win-3.5.20357-x64.msi>`_
 
-结束
+总结
 -----
 事实上，您已经学会了服务器的基本使用方法！通过将需要的文件或代码上传至服务器，并按照各项目的 ``README.md`` 文件在终端中一步步操作，您已经可以顺利使用服务器运行绝大部分代码和程序。
 

@@ -3,8 +3,8 @@
 # -- Project information
 
 project = '1207服务器使用手册'
-copyright = '2023, 1207-Lab, Maintainer: TYQ'
-author = 'TYQ'
+copyright = '2023, 1207-Lab, TYQ'
+author = '1207-Lab, TYQ'
 
 release = '0.1'
 version = '0.1.0'
