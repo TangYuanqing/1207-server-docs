@@ -78,7 +78,7 @@ ssh/sftp客户端：Termius
 
 Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同时管理服务器文件，其免费版本已经可以满足基本的使用要求，界面美观且跨平台。因此本节着重介绍Termius的使用方法。
 
-如果你尚未下载，可以从:download: `官网下载 <https://www.termius.com/download/macos>`_ 最新版，也可以直接从下方进行下载并安装（也是官网），这里略去安装过程：
+如果你尚未下载，可以从 :download:`官网下载 <https://www.termius.com/download/macos>`_ 最新版，也可以直接从下方进行下载并安装（也是官网），这里略去安装过程：
 
     - :Windows:  :download:`点击下载 <https://termi.us/win>`
     - :Mac:  :download:`点击下载 <https://termi.us/mac-download>`
@@ -86,7 +86,7 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
 1. 首次进入软件需要注册，选择 ``Continue with email`` ，输入邮箱和密码进行注册。如果后续15天完整功能体验到期，选择降为基础版本即可，可以继续免费使用Termius，免费版本足够使用。
 
 .. figure:: figures/termius1.png
-    :scale: 25 %
+    :width: 100 %
 
 2. 进入软件主页后，选择页面上方的 ``New Host``，并按下图所示填写对应部分的内容：
 
