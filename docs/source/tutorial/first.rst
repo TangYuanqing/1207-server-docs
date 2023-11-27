@@ -41,18 +41,22 @@
 1. 在开始菜单查找远程桌面连接，输入服务器地址，并点击高级选项，在用户名处输入服务器用户名，点击连接，如下图所示：
 
 .. figure:: figures/mstsc1.png
+    :scale: 50 %
 
 2. 勾选\ **不再询问我是否连接到此计算机**\ ,并选择是：
 
 .. figure:: figures/mstsc2.png
+    :scale: 50 %
 
 3. 输入服务器密码，可勾选记住凭据，下次就不需要输入密码了：
 
 .. figure:: figures/mstsc3.png
+    :scale: 50 %
 
 4. 进入图形界面后会弹出一个授权，选择Cancel即可：
 
 .. figure:: figures/mstsc4.png
+    :scale: 50 %
 
 这样一来，你就可以通过图形界面使用服务器。
 
@@ -86,18 +90,22 @@ MobaXterm同时集成了ssh工具和stfp工具，即你可以在使用终端的�
 安装所需软件后，打开文件管理器，右键此电脑，选择映射网络驱动器：
 
 .. figure:: figures/sshfs1.png
+    :scale: 50 %
 
 驱动器盘符可任意指定，在文件夹中输入： ``\\sshfs\name@172.20.185.100`` ，如下图所示，然后选择完成：
 
 .. figure:: figures/sshfs2.png
+    :scale: 50 %
 
 然后输入你的服务器密码：
 
 .. figure:: figures/sshfs3.png
+    :scale: 50 %
 
 若成功建立连接，你的文件管理器中将出现映射磁盘，然后就可以当成和普通本地磁盘一样来使用，该磁盘对应了你在服务器上的用户目录。
 
 .. figure:: figures/sshfs4.png
+    :scale: 50 %
 
 .. note::
     对于使用公网IP映射驱动器的情形，需要手动指定端口号，请按如下格式修改文件夹地址的填写路径： ``\\sshfs\name@47.100.130.127!12070`` 。
