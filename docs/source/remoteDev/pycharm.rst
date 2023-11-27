@@ -1,7 +1,9 @@
 使用PyCharm远程开发
 =================
 .. warning::
-    你使用的PyCharm版本必须是专业版，社区版没有远程开发功能。可以使用以下激活码暂时激活至2024年5月：https://pastebin.com/DE2vqCuF，可以在官网通过学生认证免费激活。
+    你使用的PyCharm版本必须是专业版，社区版没有远程开发功能。可以使用以下激活码暂时激活至2024年5月：https://pastebin.com/DE2vqCuF，也可以在官网通过学生认证免费激活。
+
+    PyCharm下载地址：https://www.jetbrains.com/pycharm/download
 
 1. 欢迎界面选择远程开发->SSH->新建项目（或菜单栏文件->远程开发）：
 
@@ -35,6 +37,8 @@
 
 .. figure:: figures/pycharm7.png
     :width: 100 %
+
+7. 然后就像在自己计算机上使用PyCharm即可。PyCharm的基本使用方法，请自行查阅相关资料。
 
 .. hint::
     一般情况下，推荐你在终端中进行Conda环境的创建和配置，并在Pycharm中进行加载。这样的方式对于VSCode和Jupyter也是适用的。可以在\ **常见问题-Conda环境搭建**\ 中获得进一步了解。
