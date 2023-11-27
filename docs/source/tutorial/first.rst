@@ -78,6 +78,9 @@ ssh/sftp客户端：MobaXterm
 
 MobaXterm同时集成了ssh工具和stfp工具，即你可以在使用终端的同时管理服务器文件，其免费版本已经可以满足基本的使用要求，且无需注册。因此本节着重介绍MobaXterm的使用方法。若你使用的不是Windows，建议你使用Termius或参见下节通过SSHFS将服务器目录映射到本地驱动器。
 
+如果你尚未下载，可以从官网下载最新版，也可以 :download:`点击这里 <https://download.mobatek.net/2342023101450418/MobaXterm_Installer_v23.4.zip>`_ 进行下载并安装，这里略去安装过程。
+
+
 本地磁盘映射：SSHFS
 ~~~~~~~~~~~~~~~~~~~~
 1. 进行本地磁盘映射需安装以下软件（Windows）：
