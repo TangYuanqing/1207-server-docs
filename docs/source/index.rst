@@ -21,9 +21,9 @@
    :maxdepth: 1
    :caption: 🧑‍💻 远程开发
 
-   pycharm
-   vscode
-   jupyter
+   remoteDev/pycharm
+   remoteDev/vscode
+   remoteDev/jupyter
 
 .. toctree::
    :maxdepth: 1
