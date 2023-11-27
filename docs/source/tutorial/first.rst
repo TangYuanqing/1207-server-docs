@@ -47,7 +47,6 @@
 1. 在开始菜单查找远程桌面连接，输入服务器地址，并点击高级选项，在用户名处输入服务器用户名，点击连接，如下图所示：
 
 .. figure:: figures/mstsc1.png
-    :width: 90 %
     :scale: 50%
 
 2. 勾选\ **不再询问我是否连接到此计算机**\ ,并选择是：
@@ -84,30 +83,30 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
     - :Windows:  :download:`点击下载 <https://termi.us/win>`
     - :MacOS:  :download:`点击下载 <https://termi.us/mac-download>`
 
-1. 首次进入软件需要注册，选择 ``Continue with email`` ，输入邮箱和密码进行注册。如果后续15天完整功能体验到期，选择降为基础版本即可，可以继续免费使用Termius，免费版本足够使用。
+1. 首次进入软件需要注册，选择 :guilabel:`Continue with email` ，输入邮箱和密码进行注册。如果后续15天完整功能体验到期，选择降为基础版本即可，可以继续免费使用Termius，免费版本足够使用。
 
 .. figure:: figures/termius1.png
-    :width: 90 %
+    :scale: 90 %
 
 2. 进入软件主页后，选择页面上方的 ``New Host``，并按下图所示填写对应部分的内容然后点击 :guilabel:`Continue`：
 
 .. figure:: figures/termius2.png
-    :width: 90 %
+    :scale: 90 %
 
-3. 若出现下图的选项，请选择 ``Add and continue``：
+3. 若出现下图的选项，请选择 :guilabel:`Add and continue`：
 
 .. figure:: figures/termius3.png
-    :width: 90 %
+    :scale: 90 %
 
 4. 到这里，如果步骤和账号密码正确，你应该已经连上了服务器终端，界面如下所示，在下面输入你的指令即可：
 
 .. figure:: figures/termius4.png
-    :width: 90 %
+    :scale: 90 %
 
 4. 若要传输文件到服务器，或者从服务器下载文件到本地，非常简单，只需要在页面左侧选择SFTP，然后在右侧双击你已经添加的服务器即可。连接上服务器后，左侧是你的本地文件，右侧是服务器目录，只需要将文件从一侧拖动到另一侧即可完成上传和下载。你也可以从文件资源管理器直接拖动文件到服务器上：
 
 .. figure:: figures/termius5.png
-    :width: 90 %
+    :scale: 90 %
 
 本地磁盘映射：SSHFS
 ~~~~~~~~~~~~~~~~~~~~
