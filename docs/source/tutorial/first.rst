@@ -91,22 +91,22 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
 2. 进入软件主页后，选择页面上方的 ``New Host``，并按下图所示填写对应部分的内容：
 
 .. figure:: figures/termius2.png
-    :scale: 25 %
+    :width: 100 %
 
 3. 若出现下图的选项，请选择 ``Add and continue``：
 
 .. figure:: figures/termius3.png
-    :scale: 25 %
+    :width: 100 %
 
 4. 到这里，如果步骤和账号密码正确，你应该已经连上了服务器终端，界面如下所示，在下面输入你的指令即可：
 
 .. figure:: figures/termius4.png
-    :scale: 25 %
+    :width: 100 %
 
 4. 若要传输文件到服务器，或者从服务器下载文件到本地，非常简单，只需要在页面左侧选择SFTP，然后在右侧双击你已经添加的服务器即可。连接上服务器后，左侧是你的本地文件，右侧是服务器目录，只需要将文件从一侧拖动到另一侧即可完成上传和下载。你也可以从文件资源管理器直接拖动文件到服务器上：
 
 .. figure:: figures/termius5.png
-    :scale: 25 %
+    :width: 100 %
 
 本地磁盘映射：SSHFS
 ~~~~~~~~~~~~~~~~~~~~
@@ -120,22 +120,22 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
 2. 安装所需软件后，打开文件管理器，右键此电脑，选择映射网络驱动器：
 
 .. figure:: figures/sshfs1.png
-    :scale: 50 %
+    :width: 100 %
 
 3. 驱动器盘符可任意指定，在文件夹中输入： ``\\sshfs\name@172.20.185.100`` ，如下图所示，然后选择完成：
 
 .. figure:: figures/sshfs2.png
-    :scale: 50 %
+    :width: 100 %
 
 4. 然后输入你的服务器密码：
 
 .. figure:: figures/sshfs3.png
-    :scale: 50 %
+    :width: 100 %
 
 5. 若成功建立连接，你的文件管理器中将出现映射磁盘，然后就可以当成和普通本地磁盘一样来使用，该磁盘对应了你在服务器上的用户目录。
 
 .. figure:: figures/sshfs4.png
-    :scale: 50 %
+    :width: 100 %
 
 .. note::
     对于使用公网IP映射驱动器的情形，需要手动指定端口号，请按如下格式修改文件夹地址的填写路径： ``\\sshfs\name@47.100.130.127!12070`` 。
