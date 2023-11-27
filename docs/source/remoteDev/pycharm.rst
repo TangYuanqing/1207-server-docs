@@ -18,7 +18,7 @@
 .. figure:: figures/pycharm3.png
     :scale: 50 %
 
-4. IDE版本选择PyCharm的非EAP版本，项目目录选择你的项目，通常为 ``/home/你的名字/xxxxxxx`` ，项目提前上传至服务器，然后选择确定->启动IDE并连接->输入密码并选择永久连接确认：
+4. IDE版本选择PyCharm的非EAP版本，项目目录选择你的项目，通常为 ``/home/你的名字/项目名称`` ，项目提前上传至服务器，然后选择确定->启动IDE并连接->输入密码并选择永久连接确认：
 
 .. figure:: figures/pycharm4.png
     :width: 90 %
@@ -28,9 +28,12 @@
 .. figure:: figures/pycharm5.png
     :width: 90 %
 
+.. figure:: figures/pycharm6.png
+    :width: 90 %
+
 6. 按个人情况配置解释器。若配置Conda环境的Python解释器，选择Conda Environment，然后在Conda Executable中填写 ``/bin/conda``，然后点击加载环境（Load Environments）。并在下面的加载项中进行你的环境配置。
 
-.. figure:: figures/pycharm6.png
+.. figure:: figures/pycharm7.png
     :width: 90 %
 
 .. hint::

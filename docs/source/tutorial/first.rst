@@ -75,14 +75,14 @@
 
 ssh/sftp客户端：Termius
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-常用的ssh/sftp客户端包括：**MobaXterm(Windows), Xshell+Xftp(Windows), Royal TSX(Mac), Termius(Windows, Mac, Linux)**.
+常用的ssh/sftp客户端包括：**MobaXterm(Windows), Xshell+Xftp(Windows), Royal TSX(Mac), Termius(Windows, MacOS, Linux)**.
 
 Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同时管理服务器文件，其免费版本已经可以满足基本的使用要求，界面美观且跨平台。因此本节着重介绍Termius的使用方法。
 
 如果你尚未下载，可以从 :download:`官网下载 <https://www.termius.com/download/macos>` 最新版，也可以直接从下方进行下载并安装（也是官网），这里略去安装过程：
 
     - :Windows:  :download:`点击下载 <https://termi.us/win>`
-    - :Mac:  :download:`点击下载 <https://termi.us/mac-download>`
+    - :MacOS:  :download:`点击下载 <https://termi.us/mac-download>`
 
 1. 首次进入软件需要注册，选择 ``Continue with email`` ，输入邮箱和密码进行注册。如果后续15天完整功能体验到期，选择降为基础版本即可，可以继续免费使用Termius，免费版本足够使用。
 
@@ -139,7 +139,7 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
     :scale: 50 %
 
 .. note::
-    对于使用公网IP映射驱动器的情形，需要手动指定端口号，请按如下格式修改文件夹地址的填写路径： ``\\sshfs\name@47.100.130.127!12070`` 。
+    对于使用公网IP映射驱动器的情形，需要手动指定端口号，请按如下格式修改文件夹地址的填写路径： ``\\sshfs\name@47.100.130.127!12070`` 。MacOS可通过Homebrew安装SSHFS，请自行查阅相关资料。
 
 .. attention::
     事实上，通过驱动器映射，你可以把服务器当成NAS来使用。但受限于公网带宽和数据安全，不建议在服务器上存储重要个人资料。请根据个人情况合理使用实验室资源。
