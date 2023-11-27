@@ -88,7 +88,7 @@ Termius同时集成了ssh工具和stfp工具，即你可以在使用终端的同
 .. figure:: figures/termius1.png
     :width: 90 %
 
-2. 进入软件主页后，选择页面上方的 ``New Host``，并按下图所示填写对应部分的内容：
+2. 进入软件主页后，选择页面上方的 ``New Host``，并按下图所示填写对应部分的内容然后点击 :action:`Continue`：
 
 .. figure:: figures/termius2.png
     :width: 90 %
