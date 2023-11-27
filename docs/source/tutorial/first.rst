@@ -40,21 +40,21 @@
 
 1. 在开始菜单查找远程桌面连接，输入服务器地址，并点击高级选项，在用户名处输入服务器用户名，点击连接，如下图所示：
 
-.. figure:: figures/mstsc1
+.. figure:: figures/mstsc1.tiff
 
 2. 勾选\ **不再询问我是否连接到此计算机**\ ,并选择是：
 
-.. figure:: figures/mstsc2
+.. figure:: figures/mstsc2.tiff
 
 3. 输入服务器密码，可勾选记住凭据，下次就不需要输入密码了：
 
-.. figure:: figures/mstsc3
+.. figure:: figures/mstsc3.tff
 
 4. 进入图形界面后会弹出一个授权，选择Cancel即可：
 
-.. figure:: figures/mstsc4
+.. figure:: figures/mstsc4.tiff
 
-这样一来，你就完成了图形界面的连接。
+这样一来，你就可以通过图形界面使用服务器。
 
 .. attention::
     
