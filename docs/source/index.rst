@@ -31,5 +31,7 @@
 
    question/q1
    question/q2
+   question/q3
+   question/q4
    question/conda
    question/download_list
